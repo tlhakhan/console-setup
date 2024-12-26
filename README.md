@@ -1,2 +1,2 @@
-# console-setup
-A repository to setup my console
+# README
+A repository to setup my console.
