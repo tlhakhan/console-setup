@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Installing packages"
-sudo apt-get install -y vim git tmux mosh python3-pip python3-venv
+sudo apt-get install -y vim git tmux mosh python3-pip python3-venv unzip tree
 
 echo "Setting up gitconfig"
 test -e ~/.gitconfig || cat <<EOF > ~/.gitconfig
